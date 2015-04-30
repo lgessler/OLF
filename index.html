@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.js"></script>
+<script src = "index.js"></script>
+<title>Online Linguistic Fieldwork</title>
+</head>
+
+<body>
+<label for="primary_search">Search:
+    <input ng-model="SearchText">
+</label>
+<table id="search">
+    <tr>
+        <th>column 1</th>
+        <th>column 2</th>
+        <th>column 3</th>
+        <th>column 4</th>
+    </r>
+<tr ng-repeat = "Word in glossary | filter: SearchText">
+    <td>{{Word.word}}</td>
+    <td>{{Word.meaning}}</td>
+</table>
+</body>

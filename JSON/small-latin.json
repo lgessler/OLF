@@ -1,0 +1,402 @@
+[
+    {
+        form: 'abbas abbatis',
+        def: 'father / abbot.'
+    },
+    {
+        form: 'abbatia',
+        def: 'abbey, monastery.'
+    },
+    {
+        form: 'abduco',
+        def: 'to lead, or take away / detach, withdraw.'
+    },
+    {
+        form: 'abeo',
+        def: 'to go away, retire / depart from life, die.'
+    },
+    {
+        form: 'abeo',
+        def: 'to digress / change / vanish, disappear.'
+    },
+    {
+        form: 'abscido',
+        def: 'to cut off, to separate, take away.'
+    },
+    {
+        form: 'absconditus',
+        def: 'hidden, concealed.'
+    },
+    {
+        form: 'absens, absentis',
+        def: '(adj.) absent, missing, away, gone.'
+    },
+    {
+        form: 'absorbeo',
+        def: 'to swallow, gulp down, carry away, engross.'
+    },
+    {
+        form: 'absque',
+        def: '(+ abl.) without.'
+    },
+    {
+        form: 'abstergo',
+        def: 'to wipe off, clean away.'
+    },
+    {
+        form: 'absum',
+        def: 'to be absent, be away, be missing.'
+    },
+    {
+        form: 'abundans',
+        def: 'abundant, overflowing, abounding in.'
+    },
+    {
+        form: 'abundantia',
+        def: 'abundance, bounty, plenty'
+    },
+    {
+        form: 'abutor',
+        def: 'to make full use of, to abuse.'
+    },
+    {
+        form: 'abutor',
+        def: 'to use abusive language / use a word incorrectly.'
+    },
+    {
+        form: 'ac  (atque)',
+        def: 'and'
+    },
+    {
+        form: 'accedo',
+        def: 'to approach, come near / (things) to be added.'
+    },
+    {
+        form: 'accendo',
+        def: 'to kindle, illuminate, inflame.'
+    },
+    {
+        form: 'acceptus',
+        def: 'welcome, pleasant, agreeable.'
+    },
+    {
+        form: 'accipio',
+        def: 'to consider oneself indebted, receive, learn, take.'
+    },
+    {
+        form: 'accommodo',
+        def: 'to adjust, adapt, accommodate oneself.'
+    },
+    {
+        form: 'accusator',
+        def: 'accusor, plaintiff.'
+    },
+    {
+        form: 'accuso',
+        def: 'to accuse, blame, find fault with.'
+    },
+    {
+        form: 'acer',
+        def: 'sharp, keen, eager, severe, fierce.'
+    },
+    {
+        form: 'acerbitas',
+        def: 'harshness, bitterness.'
+    },
+    {
+        form: 'acerbus',
+        def: 'bitter, gloomy, dark.'
+    },
+    {
+        form: 'acervus',
+        def: 'a heap, mass.'
+    },
+    {
+        form: 'acidus',
+        def: 'sharp, sour.'
+    },
+    {
+        form: 'acies',
+        def: 'keenness, edge, sharpness, battle-line, battlefield.'
+    },
+    {
+        form: 'acquiro',
+        def: 'to acquire, gain, get, obtain.'
+    },
+    {
+        form: 'acsi',
+        def: 'as if,  (Herimann p. 283, 293).'
+    },
+    {
+        form: 'adamo',
+        def: 'to fall in love with, find pleasure in.'
+    },
+    {
+        form: 'adaugeo',
+        def: 'to make greater, add, increase.'
+    },
+    {
+        form: 'addo',
+        def: 'to give, bring, place, / inspire, cause, / add, join.'
+    },
+    {
+        form: 'adduco',
+        def: 'to lead, induce, persuade.'
+    },
+    {
+        form: 'ademptio',
+        def: 'a taking away.'
+    },
+    {
+        form: 'adeo',
+        def: 'to such a point, such an extent, so far, so long.'
+    },
+    {
+        form: 'adeo',
+        def: 'to approach, visit, come to, undertake.'
+    },
+    {
+        form: 'adeptio',
+        def: 'attainment, obtaining.'
+    },
+    {
+        form: 'adepto',
+        def: 'to obtain, get, acquire.'
+    },
+    {
+        form: 'adfectus affectus  (fr. adficio)',
+        def: 'influenced, worked upon.'
+    },
+    {
+        form: 'adfero affero',
+        def: 'to cause, bring about, contribute.'
+    },
+    {
+        form: 'adfero affero',
+        def: 'to bring news, report / apply, bring to bear.'
+    },
+    {
+        form: 'adficio',
+        def: 'to affect, afflict, weaken, sap, exhaust, drain.'
+    },
+    {
+        form: 'adflicto affligo',
+        def: 'to injure, weaken, discourage, damage, break.'
+    },
+    {
+        form: 'adhaero',
+        def: 'to hang to, stick to, adhere.'
+    },
+    {
+        form: 'adhuc',
+        def: 'till then, till now, still, even now, besides, also, yet.'
+    },
+    {
+        form: 'adicio',
+        def: 'to direct, address, apply / to throw to.'
+    },
+    {
+        form: 'adimpleo',
+        def: 'to fulfill, perform.'
+    },
+    {
+        form: 'adinventitias',
+        def: '(?) Herimann, cap 2.'
+    },
+    {
+        form: 'adipiscor',
+        def: 'to come up to, overtake, obtain.'
+    },
+    {
+        form: 'adiuvo',
+        def: 'to help, aid, assist.'
+    },
+    {
+        form: 'administratio',
+        def: 'giving of help, administration, government.'
+    },
+    {
+        form: 'admiratio',
+        def: 'wonder, astonishment, surprise, admiration.'
+    },
+    {
+        form: 'admiror',
+        def: 'to wonder at, admire, marvel at.'
+    },
+    {
+        form: 'admitto',
+        def: 'to admit, receive.'
+    },
+    {
+        form: 'admoneo',
+        def: 'admonish, advise.'
+    },
+    {
+        form: 'admonitio',
+        def: 'warning, reminder (insult - Herimann, p. 282).'
+    },
+    {
+        form: 'admoveo',
+        def: 'to move to, bring up, apply.'
+    },
+    {
+        form: 'adnuo',
+        def: 'to nod assent.'
+    },
+    {
+        form: 'adopto',
+        def: 'to wish for oneself, adopt, select, pick out.'
+    },
+    {
+        form: 'adsidue assidue',
+        def: 'continuously, without remission.'
+    },
+    {
+        form: 'adstringo',
+        def: '(persons) bind, oblige, (+ refl.) commit oneself to'
+    },
+    {
+        form: 'adstringo',
+        def: 'to tight, compress, compact /'
+    },
+    {
+        form: 'adstringo',
+        def: 'to draw together, tighten, bind.'
+    },
+    {
+        form: 'adsuesco assuesco',
+        def: 'to grow accustomed to, used to, make familiar.'
+    },
+    {
+        form: 'adsum',
+        def: 'to assist, be present, be near, be in attendance,'
+    },
+    {
+        form: 'adsumo (assumo)',
+        def: 'to take to oneself, claim, appropriate, call.'
+    },
+    {
+        form: 'adulatio',
+        def: 'fawning, flattery, sycophancy, buttering up.'
+    },
+    {
+        form: 'adulescens',
+        def: 'young man, youth, lad.'
+    },
+    {
+        form: 'adulescentia',
+        def: 'youth'
+    },
+    {
+        form: 'adultus',
+        def: '(adj.) grown up, mature, adult, of age.'
+    },
+    {
+        form: 'aduro (adustum)',
+        def: 'to set fire to, burn, singe, kindle, light.'
+    },
+    {
+        form: 'advenio',
+        def: 'to come, arrive, reach.'
+    },
+    {
+        form: 'adversus',
+        def: '(prep. + acc.) toward, against, facing'
+    },
+    {
+        form: 'adversus',
+        def: '(adj.) facing, opposite, opposing.'
+    },
+    {
+        form: 'adverto',
+        def: 'to turn towards, direct one's attention to, attract.'
+    },
+    {
+        form: 'advoco',
+        def: 'to summon, call / call in an advisor.'
+    },
+    {
+        form: 'aedificium  edificium',
+        def: 'building, structure.'
+    },
+    {
+        form: 'aeger eger',
+        def: 'sick, ill.'
+    },
+    {
+        form: 'aegre  egre',
+        def: '(adv.) hardly, scarcely, with difficulty, laboriously.'
+    },
+    {
+        form: 'aegresco egresco',
+        def: 'to fall ill, become troubled, grow worse.'
+    },
+    {
+        form: 'aegresco',
+        def: 'to become ill, grow worse, be ill.'
+    },
+    {
+        form: 'aegretudo egretudo',
+        def: 'sickness, mental illness.'
+    },
+    {
+        form: 'aegrotatio egrotatio',
+        def: 'sickness, illness.'
+    },
+    {
+        form: 'aegrus',
+        def: 'ill, diseased, unwell.'
+    },
+    {
+        form: 'aeneus  eneus',
+        def: 'made of copper or bronze, brazen.'
+    },
+    {
+        form: 'aequitas equitas',
+        def: 'justice, fairness, equity.'
+    },
+    {
+        form: 'aequus, equus',
+        def: 'level, even, calm, equal, favorable, just.'
+    },
+    {
+        form: 'aer, aeris',
+        def: 'air, atmosphere, ether, weather.'
+    },
+    {
+        form: 'aestas  estas',
+        def: 'summer.'
+    },
+    {
+        form: 'aestivus  estivus',
+        def: 'pertaining to summer.'
+    },
+    {
+        form: 'aestus  estus',
+        def: 'heat, tide.'
+    },
+    {
+        form: 'aetas',
+        def: 'an age, stage, period of life, time, era.'
+    },
+    {
+        form: 'aeternus eternus',
+        def: 'eternal, everlasting, without end.'
+    },
+    {
+        form: 'Affligeniensis, Haffligeniensis',
+        def: 'Afflighem.'
+    },
+    {
+        form: 'ager (agri)',
+        def: 'farm, field, acre.'
+    },
+    {
+        form: 'aggero',
+        def: 'to make a mound, heap up, increase.'
+    },
+    {
+        form: 'aggredior',
+        def: 'to go to, approach, address, attack.'
+    },
+]

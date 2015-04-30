@@ -7,7 +7,7 @@ import re
 from bs4 import BeautifulSoup
 
 html = []
-with open('latin.html','r') as f:
+with open("latin.html","r") as f:
     html = f.read()
 
 # filter out just strings with forms and meanings
@@ -19,11 +19,11 @@ for i,v in enumerate(lines):
     len(lines[i+1]) is not 0 and lines[i+1][0] == " ":
         pairs.append( (v.replace(":","").strip(),lines[i+1].strip()) )
 
-with open('latin.json','w') as out:
+with open("latin.json","w") as out:
     out.write("[\n")
     for x in pairs:
         out.write(" "*4 + "{\n")
-        out.write(" "*8 + 'form: "%s",\n' % x[0])
-        out.write(" "*8 + 'def: "%s"\n' % x[1])
+        out.write(" "*8 + "form: '%s',\n" % x[0])
+        out.write(" "*8 + "def: '%s'\n" % x[1])
         out.write(" "*4 + "},\n")
     out.write("]\n")

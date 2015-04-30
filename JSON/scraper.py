@@ -23,7 +23,7 @@ with open("latin.json","w") as out:
     out.write("[\n")
     for x in pairs:
         out.write(" "*4 + "{\n")
-        out.write(" "*8 + "form: '%s',\n" % x[0])
-        out.write(" "*8 + "def: '%s'\n" % x[1])
+        out.write(" "*8 + "\"form\": \"%s\",\n" % x[0].replace('"','\\"'))
+        out.write(" "*8 + "\"def\": \"%s\"\n" % x[1].replace('"','\\"'))
         out.write(" "*4 + "},\n")
     out.write("]\n")

@@ -4,5 +4,5 @@ function Search($scope, $http) {
     });
 }
 
-Search.$inject = ['$scope', '$http'];
-angular.module('app', ['angular.filter']).controller('Search', Search);
+Search.$inject = ['$scope'];
+angular.module('app', []).controller('Search', Search);

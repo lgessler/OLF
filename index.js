@@ -1,5 +1,5 @@
 function Search($scope, $http) {
-    $http.get('latin.json').success(function (data) {
+    $http.get('ls.json').success(function (data) {
         $scope.Words = data;
     });
 }

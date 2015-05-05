@@ -15,7 +15,7 @@
     <label>Search: <input ng-model="search"></label>
     <table id="searchTextResults">
         <tr><th>Form</th><th>Meaning</th></tr>
-        <tr ng-repeat="Word in Words | fuzzyBy: 'form':search | limitTo:25">
+        <tr ng-repeat="Word in Words | fuzzyBy: 'form':search">
             <td>{{Word.form}}</td>
             <td>{{Word.def}}</td>
         </tr>

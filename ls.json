@@ -1,0 +1,254 @@
+[
+    {
+        "form": "Jaunpa much'asqami kani.",
+        "def": "I was kissed by John."
+    },
+    {
+        "form": "Payta rayqan",
+        "def": "He is hungry"
+    },
+    {
+        "form": "Qanta rayqasunki",
+        "def": "You are hungry."
+    },
+    {
+        "form": "Noqata rayqawan",
+        "def": "I am hungry."
+    },
+    {
+        "form": "Manan noqata llank'anaywanchu",
+        "def": "I don't feel like working. I feel like not working."
+    },
+    {
+        "form": "Manan yuyaypichu noqata punyunaywan.",
+        "def": "I don't feel like falling asleep on purpose."
+    },
+    {
+        "form": "Yuyapi noqata punyunaywan.",
+        "def": "I feel like sleeping on purpose."
+    },
+    {
+        "form": "Noqata hapischawa chulle",
+        "def": "I got a cold."
+    },
+    {
+        "form": "Qaynap'unchaw lloqsinaywaran khunan p'unchaw*(paq)",
+        "def": "Yesterday, I felt like going out for today."
+    },
+    {
+        "form": "Qaynap'unchaw lloqsinaywaran",
+        "def": "Yesterday, I felt like going out."
+    },
+    {
+        "form": "Noqata yapamanta llank'anaywan",
+        "def": "I feel like working again."
+    },
+    {
+        "form": "Noqata pisilla anchata tusunaywan",
+        "def": "I kinda feel like dancing a lot."
+    },
+    {
+        "form": "Noqata pisillata tusunaywan",
+        "def": "I feel like dancing a lot."
+    },
+    {
+        "form": "Noqata anchata tusunaywan",
+        "def": "I feel like dancing a lot."
+    },
+    {
+        "form": "Rinaywan",
+        "def": "I feel like going."
+    },
+    {
+        "form": "Qonqanaywan",
+        "def": "I feel like forgetting."
+    },
+    {
+        "form": "Kusikunaywan",
+        "def": "I feel like getting happy."
+    },
+    {
+        "form": "Urmanaywan",
+        "def": "I feel like going down."
+    },
+    {
+        "form": "Lloqsinaywan",
+        "def": "I feel like going out."
+    },
+    {
+        "form": "Haykunaywan",
+        "def": "I feel like entering."
+    },
+    {
+        "form": "Hamunaywan",
+        "def": "I feel like coming."
+    },
+    {
+        "form": "Qhepakunaywan",
+        "def": "I feel like staying."
+    },
+    {
+        "form": "taqsakunayawan",
+        "def": "I want to wash your the hair."
+    },
+    {
+        "form": "Aqtunaywan",
+        "def": "I feel like vomiting"
+    },
+    {
+        "form": "Uhunaywanshan",
+        "def": "I feel like coughing."
+    },
+    {
+        "form": "Hanllarinaywan",
+        "def": "I feel like yawning."
+    },
+    {
+        "form": "wesq'ani",
+        "def": "I close the door."
+    },
+    {
+        "form": "paranayan",
+        "def": "It feels like its going to rain."
+    },
+    {
+        "form": "chayanaywan",
+        "def": "I feel like arriving."
+    },
+    {
+        "form": "kausanaywan",
+        "def": "I feel like living."
+    },
+    {
+        "form": "p'akinaywan punqota",
+        "def": "I feel like breaking the door."
+    },
+    {
+        "form": "wanyunaywan",
+        "def": "I feel like dying."
+    },
+    {
+        "form": "Wesq'anaywan (punqota)",
+        "def": "I feel like closing the door."
+    },
+    {
+        "form": "Kichanaywan punqota",
+        "def": "I feel like opening the door."
+    },
+    {
+        "form": "Nayach'anaywan",
+        "def": "I feel like combing"
+    },
+    {
+        "form": "Noqanchis qawanakunaysanchis",
+        "def": "We feel like criticizing each other."
+    },
+    {
+        "form": "P'achakunaywan",
+        "def": "I feel like dressing myself."
+    },
+    {
+        "form": "Hallpanaywan",
+        "def": "I feel like chewing coca."
+    },
+    {
+        "form": "punqota allchanaywan",
+        "def": "I feel like fixing the door."
+    },
+    {
+        "form": "Llank'anaywan",
+        "def": "I feel like working."
+    },
+    {
+        "form": "Wananaywan ruphayta t'antata",
+        "def": "I feel like never burning the bread."
+    },
+    {
+        "form": "Ruphanaywan t'antata",
+        "def": "I feel like burning the bread."
+    },
+    {
+        "form": "Qoniynaywan t'antata",
+        "def": "I feel like heating up the bread"
+    },
+    {
+        "form": "Victor(ta) tusunayan",
+        "def": "Victor feels like dancing."
+    },
+    {
+        "form": "Qanta paykuna qaparinwanku.",
+        "def": "You feel like yelling at them."
+    },
+    {
+        "form": "Qanta Qankuna paqarinaykunkichis",
+        "def": "You feel like yelling at you all."
+    },
+    {
+        "form": "Qanta noqayku paqarinaykiku",
+        "def": "You feel like yelling at us"
+    },
+    {
+        "form": "Qanta pay qaparinaysunki.",
+        "def": "You feel like yelling at him."
+    },
+    {
+        "form": "Qanta qaparinaykunki",
+        "def": "You feel like yelling at yourself."
+    },
+    {
+        "form": "Qanta noqata qaparinayayki.",
+        "def": "You feel like yelling at me."
+    },
+    {
+        "form": "Noqata paykuna qaprinaywanku",
+        "def": "I feel like yelling at them."
+    },
+    {
+        "form": "Noqata pay qaparinaywan.",
+        "def": "I feel like yelling at him."
+    },
+    {
+        "form": "Noqatawan qantawan qaprinaywanchis.",
+        "def": "We feel like yelling at each other."
+    },
+    {
+        "form": "Noqata qanta qaparinaywanki.",
+        "def": "I feel like yelling at you."
+    },
+    {
+        "form": "Noqata qaparinaykuni.",
+        "def": "I feel like yelling at myself."
+    },
+    {
+        "form": "Qanta erqe qaparinaysunkichis",
+        "def": "You feel like yelling at the child."
+    },
+    {
+        "form": "Erqe qankuna qaparinaywankichis",
+        "def": "You guys feel like yelling at the child."
+    },
+    {
+        "form": "Erqekunata noqayku qaparinaywanku.",
+        "def": "We feel like yelling at the children."
+    },
+    {
+        "form": "Victorta noqata qaparinaywani",
+        "def": "I feel like yelling at Victor"
+    },
+    {
+        "form": "Payta suwanaywaran chei obejeta",
+        "def": "He feels like stealing that sheep"
+    },
+    {
+        "form": "Payta suwanayan monikita",
+        "def": "He feels like stealing the little animal"
+    },
+    {
+        "form": "suwanyaysunki",
+        "def": "to deceive"
+    },
+    {
+        "form": "Noqata qan qaparinaywanki.",
+        "def": "I feel like yelling at you."
+    }
+]
